@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.venicexplorer",
+      "sha256_cert_fingerprints": [
+        "B9:58:6B:50:52:0D:D1:C2:EE:FB:1E:8B:F4:2C:02:9E:D2:2D:88:4F:F5:BC:3E:E5:96:F7:A4:4D:0F:D4:54:4B"
+      ]
+    }
+  }
+]
